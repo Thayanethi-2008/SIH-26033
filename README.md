@@ -50,6 +50,7 @@ farmer and the buyer.
 
 <img width="1600" height="660" alt="WhatsApp Image 2026-10-22 at 9 47 15 AM" src="https://github.com/user-attachments/assets/8abe8dbc-4b67-41b9-b814-b6bc8953fd99" />
 
+
 ## Feasibility and Viability
 
 Feasibility:
