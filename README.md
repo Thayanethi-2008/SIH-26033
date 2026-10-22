@@ -42,7 +42,7 @@ farmer and the buyer.
 2. Buyers see the farmer's price directly, so they pay less.
 3. Delivery route planning reduces transport cost, and demand prediction reduces wastage.
 
-##Uniqueness
+Uniqueness
 1. Simple enough for small farmers to use (few fields, easy language).
 2. Combines marketplace, delivery planning and demand prediction on a single platform.
    
