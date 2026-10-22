@@ -88,8 +88,8 @@ Benefits:
 
 ## Research and References
 
-1. Agmarknet (market prices): https:/agmarknet.gov.in
-2. e-NAM (National Agriculture Market): https:/enam.gov.in
-3. Flask documentation: https:/flask.palletsprojects.com
-4. pandas documentation: https:/pandas.pydata.org
-5. Smart India Hackathon: https:/www.sih.gov.in
+1. Agmarknet (market prices): https://agmarknet.gov.in
+2. e-NAM (National Agriculture Market): https://enam.gov.in
+3. Flask documentation: https://flask.palletsprojects.com
+4. pandas documentation: https://pandas.pydata.org
+5. Smart India Hackathon: https://www.sih.gov.in
