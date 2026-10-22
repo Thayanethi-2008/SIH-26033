@@ -47,9 +47,8 @@ farmer and the buyer.
 2. Combines marketplace, delivery planning and demand prediction on a single platform.
    
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+
+
 
 ## Feasibility and Viability
 
